@@ -9,9 +9,9 @@ filename	observation_subject	sample_id	id	comment_eco	sample_type	source_taxon	A
 20250402_PMA_tp24_000027_01_01.mzML	Leaf	tp24_000027	70126.0	trich_1_03	sample	Solanum tuberosum	trich	trich_1
 20250402_PMA_tp24_000028_01_01.mzML	Leaf	tp24_000028	70127.0	trich_2_03	sample	Solanum tuberosum	trich	trich_2
 20250402_PMA_tp24_000029_01_01.mzML	Leaf	tp24_000029	70128.0	control_04	sample	Solanum tuberosum	control	control
-20250402_PMA_tp24_000031_01_01.mzML	Whole organism	tp24_000031	70132.0	trich_02_organism	sample	Trichoderma		
+20250402_PMA_tp24_000031_01_01.mzML	Whole organism	tp24_000031	70132.0	trich_02_organism	sample	Trichoderma atroviridae		
 20250402_PMA_tp24_000032_01_01.mzML	other	tp24_000032	70133.0	media_pda	sample	Solanum tuberosum		
-20250402_PMA_tp24_000033_01_01.mzML	Whole organism	tp24_000033	70131.0	trich_02_organism	sample	Trichoderma		
+20250402_PMA_tp24_000033_01_01.mzML	Whole organism	tp24_000033	70131.0	trich_02_organism	sample	Aspergillus tubingensis		
 20250402_PMA_tp24_000029_01_02.mzML	Leaf	tp24_000034	70129.0	trich_1_04	sample	Solanum tuberosum	trich	trich_1
 20250402_PMA_tp24_000035_01_01.mzML	Leaf	tp24_000035	70130.0	trich_2_04	sample	Solanum tuberosum	trich	trich_2
 20250402_PMA_tp24_solanum_mapp_bk_post_00.mzML					blank			

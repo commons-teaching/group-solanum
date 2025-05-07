@@ -1,12 +1,13 @@
 {
-  "context": "Asterids",
-  "governing_code": "ICN",
+  "context": "All life",
+  "governing_code": "undefined",
   "includes_approximate_matches": true,
   "includes_deprecated_taxa": false,
   "includes_suppressed_names": false,
   "matched_names": [
     "solanum tuberosum",
-    "trichoderma"
+    "trichoderma atroviridae",
+    "aspergillus tubingensis"
   ],
   "results": [
     {
@@ -116,36 +117,69 @@
     {
       "matches": [
         {
-          "is_approximate_match": true,
-          "is_synonym": false,
-          "matched_name": "Trichodesma",
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Trichoderma atroviridae",
           "nomenclature_code": "ICN",
-          "score": 0.9090909361839294,
-          "search_string": "trichoderma",
+          "score": 1.0,
+          "search_string": "trichoderma atroviridae",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Trichoderma atroviride",
+            "ott_id": 447354,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Hypocrea atroviridis",
+              "Trichoderma atroviridae"
+            ],
+            "tax_sources": [
+              "if:451289",
+              "ncbi:63577",
+              "gbif:5251334"
+            ],
+            "unique_name": "Trichoderma atroviride"
+          }
+        }
+      ],
+      "name": "trichoderma atroviridae"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Aspergillus tubingensis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "aspergillus tubingensis",
           "taxon": {
             "flags": [],
             "is_suppressed": false,
             "is_suppressed_from_synth": false,
-            "name": "Trichodesma",
-            "ott_id": 350422,
-            "rank": "genus",
+            "name": "Aspergillus tubingensis",
+            "ott_id": 691593,
+            "rank": "species",
             "source": "ott3.7draft2",
             "synonyms": [
-              "Boraginella",
-              "Borraginoides",
-              "Friedrichsthalia",
-              "Octosomatium"
+              "Aspergillus niger tubingensis",
+              "Aspergillus niger var. tubingensis"
             ],
             "tax_sources": [
-              "ncbi:203763",
-              "gbif:3230721",
-              "irmng:1367901"
+              "if:255209",
+              "ncbi:5068",
+              "gbif:5259931",
+              "irmng:10386625"
             ],
-            "unique_name": "Trichodesma (genus in kingdom Archaeplastida)"
+            "unique_name": "Aspergillus tubingensis"
           }
         }
       ],
-      "name": "trichoderma"
+      "name": "aspergillus tubingensis"
     }
   ],
   "taxonomy": {
@@ -157,7 +191,7 @@
   },
   "unambiguous_names": [
     "solanum tuberosum",
-    "trichoderma"
+    "aspergillus tubingensis"
   ],
   "unmatched_names": []
 }

@@ -1,0 +1,26 @@
+filename	observation_subject	sample_id	id	comment_eco	sample_type	source_taxon	ATTRIBUTE_condition	ATTRIBUTE_condition_detailed
+20250402_PMA_tp24_000004_01_01.mzML	Leaf	tp24_000004	70119	trich_1_01	sample	Solanum tuberosum	trich	trich_1
+20250402_PMA_tp24_000008_01_01.mzML	Leaf	tp24_000008	70120	control_01	sample	Solanum tuberosum	control	control
+20250402_PMA_tp24_000021_01_01.mzML	Leaf	tp24_000021	70121	control_02	sample	Solanum tuberosum	control	control
+20250402_PMA_tp24_000022_01_01.mzML	Leaf	tp24_000022	70122	trich_2_01	sample	Solanum tuberosum	trich	trich_2
+20250402_PMA_tp24_000023_01_01.mzML	Leaf	tp24_000023	70123	trich_1_02	sample	Solanum tuberosum	trich	trich_1
+20250402_PMA_tp24_000024_03_01.mzML	Leaf	tp24_000024	70124	control_03	sample	Solanum tuberosum	control	control
+20250402_PMA_tp24_000026_01_01.mzML	Leaf	tp24_000026	70125	trich_2_02	sample	Solanum tuberosum	trich	trich_2
+20250402_PMA_tp24_000027_01_01.mzML	Leaf	tp24_000027	70126	trich_1_03	sample	Solanum tuberosum	trich	trich_1
+20250402_PMA_tp24_000028_01_01.mzML	Leaf	tp24_000028	70127	trich_2_03	sample	Solanum tuberosum	trich	trich_2
+20250402_PMA_tp24_000029_01_01.mzML	Leaf	tp24_000029	70128	control_04	sample	Solanum tuberosum	control	control
+20250402_PMA_tp24_000031_01_01.mzML	Whole organism	tp24_000031	70132	trich_02_organism	sample	Trichoderma	NA	NA
+20250402_PMA_tp24_000032_01_01.mzML	other	tp24_000032	70133	media_pda	sample	Solanum tuberosum	NA	NA
+20250402_PMA_tp24_000033_01_01.mzML	Whole organism	tp24_000033	70131	trich_02_organism	sample	Trichoderma	NA	NA
+20250402_PMA_tp24_000029_01_02.mzML	Leaf	tp24_000034	70129	trich_1_04	sample	Solanum tuberosum	trich	trich_1
+20250402_PMA_tp24_000035_01_01.mzML	Leaf	tp24_000035	70130	trich_2_04	sample	Solanum tuberosum	trich	trich_2
+20250402_PMA_tp24_solanum_mapp_bk_post_00.mzML	NA	NA	NA	NA	blank	NA	NA	NA
+20250402_PMA_tp24_solanum_mapp_bk_post_01.mzML	NA	NA	NA	NA	blank	NA	NA	NA
+20250402_PMA_tp24_solanum_mapp_bk_pre_00.mzML	NA	NA	NA	NA	blank	NA	NA	NA
+20250402_PMA_tp24_solanum_mapp_bk_pre_01.mzML	NA	NA	NA	NA	blank	NA	NA	NA
+20250402_PMA_tp24_solanum_qc_00.mzML	NA	NA	NA	NA	QC	NA	NA	NA
+20250402_PMA_tp24_solanum_qc_01.mzML	NA	NA	NA	NA	QC	NA	NA	NA
+20250402_PMA_tp24_solanum_qc_02.mzML	NA	NA	NA	NA	QC	NA	NA	NA
+20250402_PMA_tp24_solanum_qc_03.mzML	NA	NA	NA	NA	QC	NA	NA	NA
+20250402_PMA_tp24_solanum_qc_04.mzML	NA	NA	NA	NA	QC	NA	NA	NA
+20250402_PMA_tp24_solanum_qc_05.mzML	NA	NA	NA	NA	QC	NA	NA	NA
