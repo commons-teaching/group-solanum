@@ -1,16 +1,17 @@
-_commit: 0.1.4
+_commit: 0.1.5
 _src_path: gh:mapp-metabolomics-unit/mapp-repo-copier-template
 common_filename_pattern: '*20250402_PMA_tp24*.mzML'
 email: pierre-marie.allard@unifr.ch
 gap_filling: true
-git_repo_path: /home/allardpm/git_repos/mapp-metabolomics-unit
+git_repo_path: /Users/pma/git_repos/mapp-metabolomics-unit
 github_username: commons-teaching
-gnps_job_id: ''
+gnps_job_id: 83f53a6fffc047e89b93f957eb72dee8
 ionization_mode: positive
 mapp_batch: mapp_batch_00163
 mapp_batch_description: Untargeted metabolomics of Solanum tuberosum leaves infected
     or not with Trichoderma sp. - positive mode
 mapp_project: mapp_project_00050
+noise_level: 500000.0
 repository_name: group-solanum
 target_variable: source_taxon
 recorded_setup: true

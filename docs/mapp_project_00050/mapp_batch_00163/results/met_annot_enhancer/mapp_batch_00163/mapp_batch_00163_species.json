@@ -1,0 +1,163 @@
+{
+  "context": "Asterids",
+  "governing_code": "ICN",
+  "includes_approximate_matches": true,
+  "includes_deprecated_taxa": false,
+  "includes_suppressed_names": false,
+  "matched_names": [
+    "solanum tuberosum",
+    "trichoderma"
+  ],
+  "results": [
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Solanum tuberosum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "solanum tuberosum",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Solanum tuberosum",
+            "ott_id": 494835,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Solanum chocclo",
+              "Solanum multijugum",
+              "Solanum tuberosum subsp. tuberosum"
+            ],
+            "tax_sources": [
+              "ncbi:4113",
+              "gbif:2930262",
+              "irmng:10202886"
+            ],
+            "unique_name": "Solanum tuberosum"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Solanum tuberosum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "solanum tuberosum",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Solanum etuberosum",
+            "ott_id": 661308,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Solanum bustillosii",
+              "Solanum etuberosum antucense",
+              "Solanum etuberosum bustillosii",
+              "Solanum etuberosum chillanense",
+              "Solanum kunzei",
+              "Solanum looseri",
+              "Solanum subandinum",
+              "Solanum tuberosum",
+              "Solanum tuberosum polemoniifolium"
+            ],
+            "tax_sources": [
+              "ncbi:200525",
+              "gbif:2930259"
+            ],
+            "unique_name": "Solanum etuberosum"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Solanum tuberosum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "solanum tuberosum",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Solanum maglia",
+            "ott_id": 598927,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Solanum collinum",
+              "Solanum commersonii glabriusculum",
+              "Solanum foncki",
+              "Solanum maglia brevifrons",
+              "Solanum maglia collinum",
+              "Solanum maglia witasekianum",
+              "Solanum tuberosum",
+              "Solanum tuberosum maglia"
+            ],
+            "tax_sources": [
+              "ncbi:172791",
+              "gbif:2931694"
+            ],
+            "unique_name": "Solanum maglia"
+          }
+        }
+      ],
+      "name": "solanum tuberosum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": true,
+          "is_synonym": false,
+          "matched_name": "Trichodesma",
+          "nomenclature_code": "ICN",
+          "score": 0.9090909361839294,
+          "search_string": "trichoderma",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Trichodesma",
+            "ott_id": 350422,
+            "rank": "genus",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Boraginella",
+              "Borraginoides",
+              "Friedrichsthalia",
+              "Octosomatium"
+            ],
+            "tax_sources": [
+              "ncbi:203763",
+              "gbif:3230721",
+              "irmng:1367901"
+            ],
+            "unique_name": "Trichodesma (genus in kingdom Archaeplastida)"
+          }
+        }
+      ],
+      "name": "trichoderma"
+    }
+  ],
+  "taxonomy": {
+    "author": "open tree of life project",
+    "name": "ott",
+    "source": "ott3.7draft2",
+    "version": "3.7",
+    "weburl": "https://tree.opentreeoflife.org/about/taxonomy-version/ott3.7"
+  },
+  "unambiguous_names": [
+    "solanum tuberosum",
+    "trichoderma"
+  ],
+  "unmatched_names": []
+}
