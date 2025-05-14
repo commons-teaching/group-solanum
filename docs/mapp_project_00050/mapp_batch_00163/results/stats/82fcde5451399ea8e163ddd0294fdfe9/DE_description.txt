@@ -1,0 +1,9 @@
+A "DatasetExperiment" object
+----------------------------
+name:          mapp_batch_00163 LCMS metabolomics dataset
+The data has been pareto scaled
+description:   Untargeted metabolomics of Solanum tuberosum leaves infected or not with Trichoderma sp. -
+                 positive mode
+data:          13 rows x 6830 columns
+sample_meta:   13 rows x 10 columns
+variable_meta: 6830 rows x 169 columns
